@@ -1,0 +1,13 @@
+{
+  "name": "@vinicius/clientes",
+  "version": "1.0.0",
+  "description": "Ambiente de interação com MongoDB pela lib mongoose",
+  "main": "ClienteRepository.js",
+  "author": "Vinicius",
+  "dependencies": {
+    "mongoose": "8.2.4"
+  },
+  "scripts": {
+    "start": "node ClienteRepository.js"
+  }
+}
